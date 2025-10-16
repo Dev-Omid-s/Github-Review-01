@@ -8,7 +8,7 @@ int main () {
     std::cin >> fName ;
 
 
-    std::cout << " Welcome \"<< fName <<"\" Please Enter Your Last Name" << std::endl ;
+    std::cout << " Welcome \""<< fName <<"\"! Please Enter Your Last Name : " << std::endl ;
     std::string lName ;
     std::cin >> lName ;
 
